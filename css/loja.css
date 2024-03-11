@@ -1,0 +1,34 @@
+body{
+    background-image: url("../imagens/fundo.png");
+    font-family: Arial;
+}
+
+h1{
+    color:limegreen;
+    font-family: 'Times New Roman';
+    font-size: 28px;
+}
+
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+
+caption{
+    font-weight: bold;
+    border-top: 2px solid silver;
+    border-right: 2px solid silver;
+    border-left: 2px solid silver;
+}
+thead{
+    font-weight: bold;
+}
+
+td{
+    text-align: center;
+    border: 2px solid silver;
+}
+.brokeLine{
+    max-width: 40px;
+    /* align-self: center; */
+}
