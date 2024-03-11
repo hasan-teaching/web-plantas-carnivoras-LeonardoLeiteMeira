@@ -1,0 +1,25 @@
+body{
+    background-image: url("../imagens/fundo.png");
+}
+
+.title{
+    color:limegreen;
+    font-family: 'Times New Roman';
+}
+
+img{
+    border: 4px solid limegreen;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+p{
+    font-family: Arial;
+    text-align: justify;
+}
